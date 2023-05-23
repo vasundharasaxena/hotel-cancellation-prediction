@@ -10,3 +10,6 @@ As a data scientist, our job is to build a machine learning model to help the ho
 <h1 align="left">COLUMN DESCRIPTION</h1>
 
 
+![Screenshot 2023-05-05 213232](https://github.com/vasundharasaxena/hotel-cancellation-prediction/assets/86097076/07ad2bf6-82fa-4b68-9453-ffed34318912)
+![Screenshot 2023-05-05 213255](https://github.com/vasundharasaxena/hotel-cancellation-prediction/assets/86097076/9278c38b-a1ca-4e09-a20c-a6e1f531f71e)
+![Screenshot 2023-05-05 213315](https://github.com/vasundharasaxena/hotel-cancellation-prediction/assets/86097076/f64bd1b1-1752-4f11-9384-317fd2c84b6c)
